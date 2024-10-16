@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    flex-direction: row;
+}
+.sakshi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;background: ;
+    padding: 20px;
+    background: gray;
+}
+
+.logo{
+    height: 60px;
+}
